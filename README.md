@@ -21,8 +21,13 @@ Jokes: Jarvis can crack jokes using the pyjokes library. Users can ask Jarvis fo
 To run Jarvis, you need to have the following libraries installed:
 
 speech_recognition
+
 pyttsx3
+
 pywhatkit
+
 datetime
+
 wikipedia
+
 pyjokes
